@@ -6,7 +6,7 @@ Welcome to the JavaScript Calculator—a user-friendly web-based tool designed f
 
 ## How to Use
 
-Access the calculator by clicking on the following link: [JavaScript Calculator](https://github.com/Ufraan/JS-projects/new/main/Simple%20Calculator). Enter your mathematical expressions and leverage the intuitive features to streamline your calculations effortlessly.
+Access the calculator by clicking on the following link: [JavaScript Calculator](https://github.com/Ufraan/JS-projects/tree/main/Simple%20Calculator). Enter your mathematical expressions and leverage the intuitive features to streamline your calculations effortlessly.
 
 ## Get Involved
 
